@@ -24,4 +24,4 @@ git clone https://github.com/MichaelAquilina/zsh-you-should-use.git $ZSH_CUSTOM/
 chsh -s $(which zsh)
 
 # reload zsh config            	
-source ~/.zshrc
+# source ~/.zshrc
