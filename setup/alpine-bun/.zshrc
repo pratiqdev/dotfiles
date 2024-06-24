@@ -10,7 +10,7 @@ ZSH_THEME="agnoster"
 plugins=(
 	git
 	zsh-autosuggestions
-    you-should-use
+	you-should-use
 	zsh-syntax-highlighting # must be last plugin loaded
 )
 
