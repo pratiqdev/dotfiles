@@ -4,8 +4,8 @@
 cp ./.gitmessage ~
 cp ./.gitconfig ~
 
-# INSTALL micro/zoxide/zsh/fira		
-sudo apt install micro zoxide zsh fonts-firacode
+# INSTALL git/micro/zoxide/zsh/fira		
+sudo apt install git micro zoxide zsh fonts-firacode
 
 # INSTALL oh-my-zosh			
 sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
