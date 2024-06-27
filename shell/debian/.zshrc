@@ -1,5 +1,5 @@
-PS1='%{$(tput cols)>╡>%F{cyan}╔╡%F{red}[%n]%F{cyan}:%F{yellow}[%m]%F{cyan}➾%F{green}[%~]%F{default}$PS1_GIT%F{cyan}${(l:tput cols::═:):-}%<<
-╚═╡%F{default}'
+# PS1='%{$(tput cols)>╡>%F{cyan}╔╡%F{red}[%n]%F{cyan}:%F{yellow}[%m]%F{cyan}➾%F{green}[%~]%F{default}$PS1_GIT%F{cyan}${(l:tput cols::═:):-}%<<
+# ╚═╡%F{default}'
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
